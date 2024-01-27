@@ -1,0 +1,15 @@
+# Ignorer les fichiers de configuration personnels
+
+# Ignorer les dossiers spécifiques de WordPress
+
+# Ignorer les fichiers de cache et temporaires
+*.log
+*.tmp
+*.temp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de sauvegarde de l'éditeur
+*~
+*.swp

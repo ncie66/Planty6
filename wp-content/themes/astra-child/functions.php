@@ -12,9 +12,5 @@
         
         return $items;
     }
-    add_filter( 'wp_nav_menu_items', 'admin_menu', 10, 2 );
-    
-    
-    
-    
+    add_filter( 'wp_nav_menu_items', 'admin_menu', 10, 2 );    
 ?>
